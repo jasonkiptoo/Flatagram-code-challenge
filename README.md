@@ -166,7 +166,3 @@ deliverables!**
       "image": "new dog image url here"
     }
     ```
-# Flatagram-code-challenge
-# Flatagram-code-challenge
-# Flatagram-code-challenge
-# flatagram-code-challenge starter
