@@ -55,7 +55,7 @@ function fetchImages(){
         title.textContent = imgTitle;
     })   
 }
-///fetch comments from the server
+///fetch comments from the server 
 function fetchComments(){
     fetch(`http://localhost:3000/comments`)
     .then(res=>res.json())
